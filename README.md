@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>My name is Alex</h1>
+  <h1>Hi! My name is Alex</h1>
 	<h2>Front-End Developer from Minsk</h2>
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>

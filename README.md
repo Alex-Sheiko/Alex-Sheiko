@@ -25,7 +25,6 @@ As a highly motivated individual, I am currently focused on expanding my knowled
 <h2></h2>
 
 ### Languages and tools
-<h5></h5>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
